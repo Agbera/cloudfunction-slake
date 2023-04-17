@@ -1,2 +1,2 @@
 # cloudfunction-slake
-# cloud function and slack commit to work samsple
+# cloud function and slack commit to work sample
